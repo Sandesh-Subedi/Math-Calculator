@@ -24,7 +24,7 @@ Make sure you have [Java](https://www.oracle.com/java/technologies/javase-jdk11-
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/java-swing-calculator.git
+    git clone https://github.com/Sandesh-Subedi/Math-Calculator.git
     ```
 2. **Navigate to the project directory**:
     ```bash
