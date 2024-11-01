@@ -10,7 +10,7 @@ Welcome to my simple and modern Java Swing Calculator! This project is a straigh
 
 ## 🎨 Preview
 
-![Calculator Preview](path_to_screenshot_image)
+![Calculator Preview](src/calculatorImage)
 
 ## 🚀 Getting Started
 
